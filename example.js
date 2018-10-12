@@ -1,7 +1,7 @@
 // DerpLib
 var DerpLib = require('./derplib');
 
-DerpLib.addAccount('fath', 'oktora1515');
+DerpLib.addAccount('username', 'pass');
 
 console.log('[DB] Loading...');
 var db = DerpLib.MM.plugin.load('database').setOrder(1).done(function(){
