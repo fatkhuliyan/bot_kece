@@ -1,7 +1,7 @@
 DerpLib
 =======
 
-Eearly version of NodeJS chatango libary made by BarryKun, fatkhuliyan 
+Eearly version of NodeJS chatango libary made by BarryKun edit by Fath 
 
 New features are still being added and all code is eligible for change.
 You are free to use this code knowing I will not provide support as soon as the code outdates.
